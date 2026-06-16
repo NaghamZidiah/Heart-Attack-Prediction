@@ -25,7 +25,8 @@ Target Variable:
 * 1 = Higher chance of heart attack
 
 Dataset Source:
-https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+[https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset](https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset)
+
 
 ## Project Objectives
 
